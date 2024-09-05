@@ -1,0 +1,11 @@
+{
+  "version": "v1.1.8",
+  "notes": "Correcting issue with CNC Eng Notes.",
+  "pub_date": "2024-08-30T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hZYmY0YUtYNDRYL2YvUlE1K3JTUnNrYlJlbWxKN0wyNTlwYVVqOTFYbXlrN0JxdVQ1bS9RWnI2SURGMDZUM1ZYRDFDVnZ0WGQ3aEorMldnNGdZK3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MDQ3MDAzCWZpbGU6QU9TXzNfMS4xLjhfeDY0X2VuLVVTLm1zaS56aXAKeFFML1p2SmdiRXFJN3VKSTZmbVRZakFoejZFQ2xDVGJLakNxTTJiSFBHQkhLNXkrUmdmT1lqclZLWlR5R3duOEZUbFRzNDQvSGtVczd1Zk9KYWFhQ2c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.8_x64_en-US.msi.zip"
+    }
+  }
+}
