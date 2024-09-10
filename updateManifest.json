@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.4",
-  "notes": "Progress made as of 9/5",
-  "pub_date": "2024-09-05T12:00:00Z",
+  "version": "v0.0.5",
+  "notes": "Progress made as of 9/10",
+  "pub_date": "2024-09-10T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRTcUljRmxjQTRtOFVNNnBGaitZeW5nMmN5azQ2M0UvbUhXMHEvaWlKSjhoQktPK01TdzVZZHR4ckVVZEZMZjVoRHBzU3FXMjBHcENNYXBiN0J6SGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NTgzNDgxCWZpbGU6QU9TXzNfRGV2XzAuMC40X3g2NF9lbi1VUy5tc2kuemlwCkJHK3BCU3pmZmJlQmVsREk4S01ISjNTSlRCT0k5Rno3NEphTFNKQXJRaGFTbDRkcGIwZ1QzTEhiR204N25JYS9CUUFLd0hoWkd2dzlsVWJ0SVJTeERBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3gwSEU5b1ZxOCsvZ0ozbXdBM0ZNR0VVem80QkZscWlocGFFWEdnZHF6bEJGWkk5ZEhVeTl5VFNsb3NyYnpTU1Z3ckVmblFVSys0Y01KNStKWm5aS0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MDEwMjk1CWZpbGU6QU9TXzNfRGV2XzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCkdFanhacHVKbmZOYXV3TEVhSXhIVi8rcXBod1BqN0h5M3hVb2RZMjh5dXJ1OXdzRFpUc0NrUmdFN2JQT2JGYmpoSzMvdlE2ZTNFM1JQTzZYRnZVQ0JnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.5_x64_en-US.msi.zip"
     }
   }
 }
