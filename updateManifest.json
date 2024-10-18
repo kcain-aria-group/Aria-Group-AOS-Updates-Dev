@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.9",
-  "notes": "CMF Group Bulk Editing is completed.",
-  "pub_date": "2024-10-04T12:00:00Z",
+  "version": "v0.0.11",
+  "notes": "Coompleted major overhauls to Project UI and tooling.",
+  "pub_date": "2024-10-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azN6bEhaVzF5bXNtN3c2ZHhEWE5ydUV6QzhMN3lVeURRcThoaE5MelVFWGVzeDcyVW1QRG9hc3kzMjRuM2dRTFJtK050dHRBWjdLWWowVWxmbm1FU3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MDcwNzc4CWZpbGU6QU9TXzNfRGV2XzAuMC45X3g2NF9lbi1VUy5tc2kuemlwCm9xUTgvbTZkd2tjdUZwVVJQNzBrWCs1Z1kvVWxuc3hlc3dzK1Y3b3V2U1BaMklFNXA1UmE4RWo3YlJHUEdYcXRBMjZPUWx6dm1RY3pEKythTTZFNERBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFINVpObkJSUzc3M1Vpd3Vvek5BeEFlWUZrSXhRT0NqRHh4NVROWC9YcUZvbG15STFpSXZMWEZnT28vVFpJMUFyYnVKYS9YMGlkTUdIQXRpOVU2Z3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MjgzNDI5CWZpbGU6QU9TXzNfRGV2XzAuMC4xMV94NjRfZW4tVVMubXNpLnppcApIY2lROXZmeXRJOFBxaS9SalJxZ3hUbWRQaDZGRjZIUGNuYWFhWkhOcXFaT0xWYlhxRE5JV2V2bTZNdDNQak00anRraU82SW5ucTFIMk4wOU1UYlVEQT09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.11_x64_en-US.msi.zip"
     }
   }
 }
