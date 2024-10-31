@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.12",
-  "notes": "Final Dev Build Test Before Release. CNC QUEUE In Progress.",
+  "version": "v0.0.13",
+  "notes": "Test Build. CNC Queue automation is working.",
   "pub_date": "2024-10-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3p6VFpUV1B4NktZS1VCYjhIbGpJcVFtcXh1NkZYTkcrcDNEMkZnemhpbVRlNVVITi84TFhwbTJqOXluMUV2ZTZUWU1jMVM1QlJ6OCtYVnY0dFdpT2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzExMTU2CWZpbGU6QU9TXzNfRGV2XzAuMC4xMl94NjRfZW4tVVMubXNpLnppcApxSXNYNmNyUVd3RjJMYnNaeXpONWRPaldjc2JQd0huRVBITzhuSC9jN054dWY2a3NnVEN6SzBzN1Eva25QeHBPSWFHRkFrUkoxYm9lTGd1K2ltMWpCQT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.12_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azM1QUg4SjlMUCtyMlhTYmNRcGhhdEwveFkzRDRjcjQ1NjFuSXBzR01iNGVkbDAvSDRwRUQvQ0JYTGxSV3VnWlRVMHV2M080b25DTGtndWR6T3htTkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzM0ODc5CWZpbGU6QU9TXzNfRGV2XzAuMC4xM194NjRfZW4tVVMubXNpLnppcApFcVJnSHhMTUlLNHRmNXkzbUg3dWR1RkJIUjJPWkZzSjBMK1ZFUXlydzJGSnBCMEN2R1BQeTNicndCVFRmSEdpNmNvbGErTTk3cGZRQi9YaFZ1ckRBZz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.13_x64_en-US.msi.zip"
     }
   }
 }
