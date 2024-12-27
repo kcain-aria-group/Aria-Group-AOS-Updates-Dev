@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.13",
-  "notes": "Test Build. CNC Queue automation is working.",
-  "pub_date": "2024-10-30T12:00:00Z",
+  "version": "v0.0.14",
+  "notes": "Overhauled Project navigation, Inevntoryu, and introduced new REQ processes.",
+  "pub_date": "2024-12-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azM1QUg4SjlMUCtyMlhTYmNRcGhhdEwveFkzRDRjcjQ1NjFuSXBzR01iNGVkbDAvSDRwRUQvQ0JYTGxSV3VnWlRVMHV2M080b25DTGtndWR6T3htTkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzM0ODc5CWZpbGU6QU9TXzNfRGV2XzAuMC4xM194NjRfZW4tVVMubXNpLnppcApFcVJnSHhMTUlLNHRmNXkzbUg3dWR1RkJIUjJPWkZzSjBMK1ZFUXlydzJGSnBCMEN2R1BQeTNicndCVFRmSEdpNmNvbGErTTk3cGZRQi9YaFZ1ckRBZz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJXaGIzSDEycHJKSnBrdVlhdEZNdjk3UXJYZU0zbkJ5VjZ3RTRodzV1N3NrclpGQnA1eEs5czd0c3hNTDhLc2dGdERWcitPYWN1QWR0WFVsSi9tVmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MjYwMDk1CWZpbGU6QU9TXzNfRGV2XzAuMC4xM194NjRfZW4tVVMubXNpLnppcApCbWdMbGJCQVU4UXpFM29vSEhoOWFYTjFHNGNJZzRpRTBOR0JFb0V1ZjdyYXIzSlltSC9IWVJPcUtlYkJ6a0VTRERDVTE4cXY3OGVLZzYyWERsRWlDZz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.14_x64_en-US.msi.zip"
     }
   }
 }
