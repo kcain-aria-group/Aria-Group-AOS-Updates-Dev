@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.14",
-  "notes": "Overhauled Project navigation, Inevntoryu, and introduced new REQ processes.",
-  "pub_date": "2024-12-26T12:00:00Z",
+  "version": "v0.0.15",
+  "notes": "Implemented New Inventory Overhauls.",
+  "pub_date": "2024-01-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdBcU1kcnArZzRDL2g1QytrUWN1SnVFcnFkTXMzOW92WTJhL3E5ZmM4VjJ3dmg5elVPN0c0eDQ3OHBYbWh1SG1FMkZUQnR5djlmWE53NHY1bkswaVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MjYwNTk2CWZpbGU6QU9TXzNfRGV2XzAuMC4xNF94NjRfZW4tVVMubXNpLnppcAptZnlIRWlHZFVnTmhqdTFKZlZWbGJ0MFcvYnpqM29LNFhCNGZLSWVPQkFLL2dhcFhUWnY5VFdDbUVDbU1JbkhUZlFHVU5oemNnQ2pKYjZJNmJsMTFBUT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.14_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azB1TVowMEtMajhaaGMxclV3TURIZGNvdjR3alFmYlkvamxjNHJDczFWcytuNGNxVktETDU0akUweXRsSkthR1FZUU8zUmduL3VkUDg4bDkrUkYxUGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1OTUyNjkwCWZpbGU6QU9TXzNfRGV2XzAuMC4xNV94NjRfZW4tVVMubXNpLnppcApCQWorbmRjdjdQdWdaQWZxakFrTC9BZ1JvSzdlaFp2eGFNbGNodndrM2VOajlLMUJwclVyQjJPR3BkTmltOGJndU8yVFFFUENvUXN0aUU3RWx6aWNCdz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.15_x64_en-US.msi.zip"
     }
   }
 }
