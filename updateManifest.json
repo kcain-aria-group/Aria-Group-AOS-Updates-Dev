@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.15",
-  "notes": "Implemented New Inventory Overhauls.",
-  "pub_date": "2024-01-03T12:00:00Z",
+  "version": "v0.0.16",
+  "notes": "Invenotry Logic is nearly complete.",
+  "pub_date": "2024-01-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azB1TVowMEtMajhaaGMxclV3TURIZGNvdjR3alFmYlkvamxjNHJDczFWcytuNGNxVktETDU0akUweXRsSkthR1FZUU8zUmduL3VkUDg4bDkrUkYxUGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1OTUyNjkwCWZpbGU6QU9TXzNfRGV2XzAuMC4xNV94NjRfZW4tVVMubXNpLnppcApCQWorbmRjdjdQdWdaQWZxakFrTC9BZ1JvSzdlaFp2eGFNbGNodndrM2VOajlLMUJwclVyQjJPR3BkTmltOGJndU8yVFFFUENvUXN0aUU3RWx6aWNCdz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.15_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azE5MXluSWpNS2NQNlYvTjhWbEJjaWMwY2dPeVN4RG5neGg0b0dZNncxZWNudytuVWlFS3VQQ0swM3IrRnVuUHdQUHptcEFjaXlGWnBneGJ4aS9lcmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2Mjk4NTc4CWZpbGU6QU9TXzNfRGV2XzAuMC4xNl94NjRfZW4tVVMubXNpLnppcApERlN4NGtXRVFpK0VNUVhGSGp1QUEyVE5GWmN1SFVpRkowTHl1M2FkUFRNUk81bWJENFBQd1NzT3ZrSmJnckVkVVF5OHhZbkk0a3pFY1dwSnhnN1hCdz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.16_x64_en-US.msi.zip"
     }
   }
 }
