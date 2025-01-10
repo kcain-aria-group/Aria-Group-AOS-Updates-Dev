@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.17",
-  "notes": "Pushing Additional Inventory Updates.",
-  "pub_date": "2024-01-08T12:00:00Z",
+  "version": "v0.0.18",
+  "notes": "Inventory UI V1 Completed.",
+  "pub_date": "2024-01-09T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3doK3g5R05qU0tyL0FVdFVmNkhxU3dZYmZmRDlXM1NobHh6WWI4UTZkc0JXdnVGQVYvZUY0Yk5mMlgzVW5WOWg3U1NIRGhsbzV3Z082dk9Ba0VKK0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2Mzc3MTczCWZpbGU6QU9TXzNfRGV2XzAuMC4xN194NjRfZW4tVVMubXNpLnppcAp3V01WOE5lbjdDelFzNVFFaElNeUVrWUYvaU91K1A1c1A4OXgyVS9nc2lMemhuemh0cHk2OURpZmVsZVNhVHNlSFZ5R2lBYW5IVGphc2VLaTRLb0tBUT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.17_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJhUHZRMnB6d2orT2dXQzYwNUlHOWxMdHljaXZYZEdGZExtdHdPZ0VtNXFyZnp0bkNFRUVBUnpOT01sWDF4aC8zd3NnalhrU2NJT3RxVjNvdEhhRGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2NDY2OTgyCWZpbGU6QU9TXzNfRGV2XzAuMC4xOF94NjRfZW4tVVMubXNpLnppcAphOS9ocjJtcXBVYU8rcG1EZnVpaTgrN3VoZUhGYmszdGx3SFEwYW5ENktpUkN6RXRZbGxsQTRyVmFrR0hHanpwNi95K0xLcThZWnREcCtpY2FSWXlDUT09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.18_x64_en-US.msi.zip"
     }
   }
 }
