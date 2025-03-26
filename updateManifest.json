@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.21",
-  "notes": "Add, delete, bulk delete, reorganize, Generate MTF, and dynamic BOM locking are all working.",
-  "pub_date": "2025-03-21T12:00:00Z",
+  "version": "v0.0.23",
+  "notes": "Core Release of CATIA/ENGINEERING update is ready for testing.",
+  "pub_date": "2025-03-25T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytoT2NYUDhYZXNGcHlSUVJsWno4ZVg4VWpIZVV6RTdkK3RkYzlTL0tKenVab2FrbU5pb1N0N1pTZ2xlcGxwd2M3R0VhbExVcTVoTUZhYTFaSm5yY1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyNjAzNDc4CWZpbGU6QU9TXzNfRGV2XzAuMC4yMV94NjRfZW4tVVMubXNpLnppcApUVk4vSkE2ZTAzWWRNV2lJaGIzenk0dWdubDFpQ3BTZXBMRjdsUllEZy9mT1ljSXoycVNqM0NXeTBycTZOanJlbkVMNnhSNS9OVS9lWW1jWkxvVW1DQT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.21_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ayszVVZkTG0xdXNCcEEzMk94YVpIQ1RKeGEyNEVLK2VmKyt2ek1EdUxDVXBaL202eEUzM2pSZzlCV0NYdG1pMjN2ZE9SUWZhR0Q4N2cyVHdNa1d3REFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyOTQ5NjQ2CWZpbGU6QU9TXzNfRGV2XzAuMC4yM194NjRfZW4tVVMubXNpLnppcApoenlqbmc2cTNQS2dyalFNK0dUN0EvdjVPOGN5MWZPRVYyVlBwQ2piWDBxMzhlYmNNUHhXeWhwUU9VMlozVEpLa0ZwOTZCL250QURJbTN1VWVrZXZEZz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.23_x64_en-US.msi.zip"
     }
   }
 }
