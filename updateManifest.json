@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.24",
+  "version": "v0.0.25",
   "notes": "CATIA Integration's Final Production Bug Fixes Complete.",
-  "pub_date": "2025-04-01T12:00:00Z",
+  "pub_date": "2025-04-02T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azQxQ1VKR0N6TllSVzVmZ29STGZWb0ViSHJnbUplcS9IWHQ4RG1vM2VTazFnWXprOUFBYmd6MFRjbkREcHUyb2tQWDJGZ0NhY2VrM0NKK24yOERaOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNTM3MzMxCWZpbGU6QU9TXzNfRGV2XzAuMC4yNF94NjRfZW4tVVMubXNpLnppcAp2U1krNG94RVNJL3lId0tEY0dqcStXcHNFM1ltZEw2QnpnNmZBTnJZVmhuemNWY3YvR0QzZ3ZTWnVJWWFyWmhWWTk0L3pVemJOQlFwZUJ6dkMzbzdCdz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.24_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ays4ckEzT0pwSjM0d1NlRHg2RDRINGFmVEtSVWhPWnNiWlFmaE5hZGgySTlWWE1ra2pnKzNMUmJQWUVBc285eXNKTDJNRVUvR25EK2RhNG11WndydGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNjM0OTk2CWZpbGU6QU9TXzNfRGV2XzAuMC4yNV94NjRfZW4tVVMubXNpLnppcAprMzdnMXlabklHN1dUUWdyOHBNWW82UFBHVjdzTURLY2lSbTJSZ2xXeHEvRDRQdi8zZEtRbnNlTytFU1ZVZDBiR2ZEYUh6dE5pQmpON1ZRVm5yWmFCUT09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates-Dev/raw/main/AOS_3_Dev_0.0.25_x64_en-US.msi.zip"
     }
   }
 }
